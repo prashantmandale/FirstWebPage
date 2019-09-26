@@ -4,7 +4,7 @@
 }
 
 .bgimage{
-	background-image: url('aquatic.jpg');
+	background-image: url('astronomy.jpg');
 	background-size: 100% 110%;
 	width: 100%;
 	height: 100vh;
@@ -71,9 +71,9 @@
 }
 
 .text h4{
-	font-size: 18px;
+	font-size: 16px;
 	font-family: 'Open Sans', sans-serif;
-	color: black;
+	color: white;
 }
 
 .text h1{
@@ -84,8 +84,10 @@
 }
 
 .text h3{
-	font-size: 12px;
+	font-size: 15px;
 	font-family: 'Open Sans', sans-serif;
+	color: white;
+	font-weight: bold;
 }
 
 #buttonone{
